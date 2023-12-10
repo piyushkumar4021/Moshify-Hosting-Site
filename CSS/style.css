@@ -261,10 +261,8 @@ a {
 }
 
 .btn .icon {
-  width: 20px;
-  height: 20px;
-  margin-right: 1rem;
-  vertical-align: center;
+  width: 2rem;
+  height: 2rem;
 }
 
 @media screen and (min-width: 1024px) {
@@ -294,6 +292,7 @@ a {
   flex-grow: 1;
   padding: 1.5rem 2rem;
   width: 0;
+  text-overflow: ellipsis;
 }
 
 .input-group .btn {
