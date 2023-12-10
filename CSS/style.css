@@ -21,6 +21,7 @@
 /* Typography */
 html {
   font-size: 62.5%;
+  overflow-x: hidden;
 }
 
 body {
@@ -28,6 +29,7 @@ body {
   font-family: Inter, Arial, Helvetica, sans-serif;
   font-size: 2.4rem;
   line-height: 1.2;
+  overflow-x: hidden;
 }
 
 h1,
